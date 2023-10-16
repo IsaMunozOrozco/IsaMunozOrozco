@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IsaMunozOrozco
-- 👀 I’m interested in neural mechanisms of motor control of locomotion in autism 
+- 👀 I’m interested in #biomechanics #motorcontrol #gait #posture #locomotion
 - 🌱 I’m currently learning Python, Matlab, and R. 
 
 <!---
