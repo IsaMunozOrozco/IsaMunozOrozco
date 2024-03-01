@@ -1,5 +1,5 @@
 - 👋 Hello, my name is Isabel and I am currently a PhD student in Movement Science. 
-- 👀 I’m interested in #biomechanics #motorcontrol #gait #posture #locomotion
+- 👀 I’m interested in #biomechanics #motorcontrol #gait #posture #locomotion #functionalmobility
 - 🌱 I’m currently learning Python, Matlab, and R. 
 
 <!---
